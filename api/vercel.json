@@ -1,4 +1,4 @@
-{
+"type": "module"
   "routes": [
     { "src": "/", "dest": "/index.html" }
   ]
